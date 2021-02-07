@@ -19,3 +19,13 @@ const kMessageContainerDecoration = BoxDecoration(
 );
 
 const logoHeroTag = 'logo';
+
+const senderBorderRadius = BorderRadius.only(
+    topLeft: Radius.circular(30),
+    bottomLeft: Radius.circular(30),
+    bottomRight: Radius.circular(30));
+
+const otherBorderRadius = BorderRadius.only(
+    topRight: Radius.circular(30),
+    bottomLeft: Radius.circular(30),
+    bottomRight: Radius.circular(30));
