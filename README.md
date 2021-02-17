@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Flash Chat ⚡️
 
 ## Our Goal
@@ -22,5 +20,3 @@ The objective of this project was to build a chat app as shown by the London App
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 > This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
