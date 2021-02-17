@@ -2,7 +2,7 @@
 
 ## Goal
 
-The objective of this project was to build a chat app as shown by the London App Brewery. It was to learn how to incorporate Firebase into Flutter apps. Firebase Cloud Firestore as well as the Firebase authentication package was used to equip our app with a cloud-based NoSQL database and secure authentication methods.
+The objective of this project was to build a chat app and in so doing, learn how to incorporate Firebase into Flutter apps. Firebase Cloud Firestore as well as the Firebase authentication package was used to equip our app with a cloud-based NoSQL database and secure authentication methods.
 
 ## Demo GIF
 
